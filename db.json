@@ -2,11 +2,11 @@
     "courses": [
         {
             "id": 1,
-            "title": "Curso React desde cero 2020",
-            "image": "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-04/React%20desde%20cero%20%281%29.png",
-            "price": "20 USD",
-            "teacher": "Nelson Urbaneja",
-            "teacherImage": "https://avatars2.githubusercontent.com/u/56278219?s=460&u=357271b2be844e35c0a60592aa03cb932765daa5&v=4"
+            "title": "JavaScript en el navegador",
+            "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/javascript-dom_0.jpg?itok=IYtQcU4E",
+            "price": "10 USD",
+            "teacher": "Alvaro Felipe",
+            "teacherImage": "https://api.ed.team/files/avatars/18a0441b-8357-488f-a461-21d07260f46a.jpg"
         },
         {
             "id": 2,
@@ -31,6 +31,38 @@
             "price": "14 USD",
             "teacher": "Beto Quiroga",
             "teacherImage": "https://api.ed.team/files/avatars/38118146-4b4a-4844-8959-157614e04cd1.jpg"
-        }
+        },
+        {
+            "id": 5,
+            "title": "Angular Desde Cero",
+            "image": "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-08/angular.png",
+            "price": "24 USD",
+            "teacher": "Luis Aviles",
+            "teacherImage": "https://drupal.ed.team/sites/default/files/styles/perfil_en_views_200x200_/public/pictures/2017-10/luis-aviles.jpg?itok=haXRY95-"
+        },
+        {
+            "id": 6,
+            "title": "Responsive Web Design",
+            "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/rwd.jpg?itok=K8Mrt7sc",
+            "price": "15 USD",
+            "teacher": "Alvaro Felipe",
+            "teacherImage": "https://api.ed.team/files/avatars/18a0441b-8357-488f-a461-21d07260f46a.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Sass Desde Cero",
+            "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/sass_0.jpg?itok=cvLQZxim",
+            "price": "12 USD",
+            "teacher": "Alvaro Felipe",
+            "teacherImage": "https://api.ed.team/files/avatars/18a0441b-8357-488f-a461-21d07260f46a.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Curso React desde cero 2020",
+            "image": "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-04/React%20desde%20cero%20%281%29.png",
+            "price": "20 USD",
+            "teacher": "Nelson Urbaneja",
+            "teacherImage": "https://avatars2.githubusercontent.com/u/56278219?s=460&u=357271b2be844e35c0a60592aa03cb932765daa5&v=4"
+        }  
     ]
 }
