@@ -2,6 +2,7 @@
     "courses": [
         {
             "id": 1,
+            "idName":"js-dom",
             "title": "JavaScript en el navegador",
             "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/javascript-dom_0.jpg?itok=IYtQcU4E",
             "price": "10 USD",
@@ -10,6 +11,7 @@
         },
         {
             "id": 2,
+            "idName":"rxjs",
             "title": "Programación reactiva con RxJS",
             "image": "https://res.cloudinary.com/edteam/image/upload/v1581437964/rxjs-poster-_v3.png",
             "price": "20 USD",
@@ -18,6 +20,7 @@
         },
         {
             "id": 3,
+            "idName":"react-state",
             "title": "Manejo del estado de la aplicación",
             "image": "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-04/React%20Rutas%20manejo%20de%20estados%20%281%29.png",
             "price": "35 USD",
@@ -26,6 +29,7 @@
         },
         {
             "id": 4,
+            "idName":"js-poo",
             "title": "Programación orientada a objetos con JavaScript",
             "image": "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-11/js-poo.png",
             "price": "14 USD",
@@ -34,6 +38,7 @@
         },
         {
             "id": 5,
+            "idName":"angular",
             "title": "Angular Desde Cero",
             "image": "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-08/angular.png",
             "price": "24 USD",
@@ -42,6 +47,7 @@
         },
         {
             "id": 6,
+            "idName":"rwd",
             "title": "Responsive Web Design",
             "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/rwd.jpg?itok=K8Mrt7sc",
             "price": "15 USD",
@@ -50,6 +56,7 @@
         },
         {
             "id": 7,
+            "idName":"sass",
             "title": "Sass Desde Cero",
             "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/sass_0.jpg?itok=cvLQZxim",
             "price": "12 USD",
@@ -58,6 +65,7 @@
         },
         {
             "id": 8,
+            "idName":"react",
             "title": "Curso React desde cero 2020",
             "image": "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-04/React%20desde%20cero%20%281%29.png",
             "price": "20 USD",
