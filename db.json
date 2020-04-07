@@ -74,23 +74,3 @@
         }  
     ]
 }
-
-{
-    "imagenes": [
-        {
-            "id": 1,
-            "title": "JavaScript en el navegador",
-            "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/javascript-dom_0.jpg?itok=IYtQcU4E",
-        },
-        {
-            "id": 2,
-            "title": "Programación reactiva con RxJS",
-            "image": "https://res.cloudinary.com/edteam/image/upload/v1581437964/rxjs-poster-_v3.png",
-        },
-        {
-            "id": 3,
-            "title": "Manejo del estado de la aplicación",
-            "image": "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-04/React%20Rutas%20manejo%20de%20estados%20%281%29.png",
-        }
-    ]
-}
