@@ -4,7 +4,7 @@
             "id": 1,
             "idName":"js-dom",
             "title": "JavaScript en el navegador",
-            "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/javascript-dom_0.jpg?itok=IYtQcU4E",
+            "image": "https://edteam-media.s3.amazonaws.com/specialities/original/99cd73fe-69b0-4cff-94d1-2ff645336cd6.jpg",
             "price": "10 USD",
             "teacher": "Alvaro Felipe",
             "teacherImage": "https://api.ed.team/files/avatars/18a0441b-8357-488f-a461-21d07260f46a.jpg"
@@ -22,7 +22,7 @@
             "id": 3,
             "idName":"react-state",
             "title": "Manejo del estado de la aplicación",
-            "image": "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-04/React%20Rutas%20manejo%20de%20estados%20%281%29.png",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/8b7ef439-b9bc-485f-9608-d82d0d1a7a2b.png",
             "price": "35 USD",
             "teacher": "Nelson Urbaneja",
             "teacherImage": "https://avatars2.githubusercontent.com/u/56278219?s=460&u=357271b2be844e35c0a60592aa03cb932765daa5&v=4"
@@ -31,7 +31,7 @@
             "id": 4,
             "idName":"js-poo",
             "title": "Programación orientada a objetos con JavaScript",
-            "image": "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-11/js-poo.png",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/321a7716-9234-492f-8879-f7adc122624a.png",
             "price": "14 USD",
             "teacher": "Beto Quiroga",
             "teacherImage": "https://api.ed.team/files/avatars/38118146-4b4a-4844-8959-157614e04cd1.jpg"
@@ -39,8 +39,8 @@
         {
             "id": 5,
             "idName":"angular",
-            "title": "Angular Desde Cero",
-            "image": "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-08/angular.png",
+            "title": "Taller: Crea tu tienda online con Angular",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/95d5ce10-b165-44ec-97d0-ea6035cbd59a.png",
             "price": "24 USD",
             "teacher": "Luis Aviles",
             "teacherImage": "https://drupal.ed.team/sites/default/files/styles/perfil_en_views_200x200_/public/pictures/2017-10/luis-aviles.jpg?itok=haXRY95-"
@@ -49,7 +49,7 @@
             "id": 6,
             "idName":"rwd",
             "title": "Responsive Web Design",
-            "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/rwd.jpg?itok=K8Mrt7sc",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/aae56a6c-bbb1-4c94-abe6-f4243278b32d.jpg",
             "price": "15 USD",
             "teacher": "Alvaro Felipe",
             "teacherImage": "https://api.ed.team/files/avatars/18a0441b-8357-488f-a461-21d07260f46a.jpg"
@@ -58,7 +58,7 @@
             "id": 7,
             "idName":"sass",
             "title": "Sass Desde Cero",
-            "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/sass_0.jpg?itok=cvLQZxim",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/fe88d109-7807-453e-b357-4858af36bf28.jpg",
             "price": "12 USD",
             "teacher": "Alvaro Felipe",
             "teacherImage": "https://api.ed.team/files/avatars/18a0441b-8357-488f-a461-21d07260f46a.jpg"
@@ -67,7 +67,7 @@
             "id": 8,
             "idName":"react",
             "title": "Curso React desde cero 2020",
-            "image": "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-04/React%20desde%20cero%20%281%29.png",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/5eaaec0b-fa78-4f48-94b6-61b757e1f5fa.png",
             "price": "20 USD",
             "teacher": "Nelson Urbaneja",
             "teacherImage": "https://avatars2.githubusercontent.com/u/56278219?s=460&u=357271b2be844e35c0a60592aa03cb932765daa5&v=4"
